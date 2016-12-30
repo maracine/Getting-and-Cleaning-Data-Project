@@ -55,6 +55,8 @@ run_analysis.R requires packages dplyr and data.table.
 
 ## Variables generated:
 
+All variables are the mean of a measurement for each subject and activity.
+
 * subject
 * activity
 * tBodyAcc.mean...X
