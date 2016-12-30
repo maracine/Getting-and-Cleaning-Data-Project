@@ -18,7 +18,9 @@ Create one R script called run_analysis.R that does the following.
     https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-2. Download the run_analysis.R file from this repository. You may need to adjust the working directory in the Housekeeping section of the code.
+2. Download the run_analysis.R file from this repository. Store the file in the directory created in step 1.
 
-3. Run the R file. It will automatically load the dependant libraries, read in the data files, produce the necessary datasets, and will write the final tidied data into file 'final_averages.csv'.
+3. You may need to adjust the working directory in the Housekeeping section of the code.
+
+4. Run the R file. It will automatically load the dependant libraries, read in the data files, produce the necessary datasets, and will write the final tidied data into file 'final_averages.csv'.
 
