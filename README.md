@@ -22,5 +22,5 @@ Create one R script called run_analysis.R that does the following.
 
 3. You may need to adjust the working directory in the Housekeeping section of the code.
 
-4. Run the R file. It will automatically load the dependant libraries, read in the data files, produce the necessary datasets, and will write the final tidied data into file 'final_averages.csv'.
+4. Run the R file. It will automatically load the dependant libraries, read in the data files, transform and generate the necessary datasets, and will write the final tidied data into file 'final_averages.csv'.
 
