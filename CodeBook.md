@@ -55,7 +55,7 @@ run_analysis.R requires packages dplyr and data.table.
 
 ## Variables generated:
 
-All variables are the mean of a measurement for each subject and activity.
+Variable subject is an identifier of the subject who carried out the experiment. Variable activity identifies the activity type. All othervariables represent the average of a measurement as grouped/casted for each subject and activity.
 
 * subject
 * activity
